@@ -3,7 +3,7 @@
 
 ## پیش نیازها 🔧
 
-# نصب وابستگی ها
+نصب وابستگی ها
 ```
 sudo apt update && sudo apt install tshark -y 
 ```
