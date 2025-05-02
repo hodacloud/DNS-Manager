@@ -50,3 +50,9 @@ bash <(curl -Ls https://raw.githubusercontent.com/hodacloud/DNS-Manager/main/dns
 
 ⚡ بهینه سازی شده برای سرورهای پرترافیک
 
+
+📞 Support
+Website: HodaCloud.com
+
+Email: info@hodacloud.com
+
