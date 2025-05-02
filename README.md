@@ -9,7 +9,7 @@ sudo apt update && sudo apt install tshark -y
 ```
 # نصب و راه اندازی ⚡
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/hodacloud/DNS-Manager/main/dns_manager.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/hodacloud/DNS-Manager/refs/heads/main/dns_manager.sh)
 ```
 راهنمای استفاده 📖
 # 1. راه اندازی اولیه سیستم
