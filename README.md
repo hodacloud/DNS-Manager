@@ -52,7 +52,5 @@ bash <(curl -Ls https://raw.githubusercontent.com/hodacloud/DNS-Manager/main/dns
 
 
 📞 Support
-Website: HodaCloud.com
-
-Email: info@hodacloud.com
+Website: HodaCloud.com   |     Email: info@hodacloud.com
 
