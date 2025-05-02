@@ -5,7 +5,7 @@
 
 # نصب وابستگی ها
 ```
-sudo apt update && sudo apt install -y tshark
+sudo apt update && sudo apt install tshark -y 
 ```
 # نصب و راه اندازی ⚡
 ```
